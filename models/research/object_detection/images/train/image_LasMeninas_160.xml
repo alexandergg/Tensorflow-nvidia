@@ -1,0 +1,50 @@
+<annotation>
+  <folder>train_1</folder>
+  <filename>image_LasMeninas_160.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\train_1\image_LasMeninas_160.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>939</width>
+    <height>1020</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Infanta Margarita</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>455</ymin>
+      <xmax>247</xmax>
+      <ymax>799</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Isabel de Velasco</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>228</xmin>
+      <ymin>305</ymin>
+      <xmax>556</xmax>
+      <ymax>686</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Mari Barbola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>569</xmin>
+      <ymin>404</ymin>
+      <xmax>843</xmax>
+      <ymax>731</ymax>
+    </bndbox>
+  </object>
+</annotation>

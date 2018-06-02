@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Model_to_train</folder>
+  <filename>image_Gioconda_35.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\Model_to_train\image_Gioconda_35.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>639</width>
+    <height>414</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Gioconda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>169</xmin>
+      <ymin>17</ymin>
+      <xmax>601</xmax>
+      <ymax>413</ymax>
+    </bndbox>
+  </object>
+</annotation>

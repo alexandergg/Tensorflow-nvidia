@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train_1</folder>
+  <filename>image_LasMeninas_190.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\train_1\image_LasMeninas_190.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>660</width>
+    <height>443</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Diego Velazquez</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>238</xmin>
+      <ymin>22</ymin>
+      <xmax>516</xmax>
+      <ymax>267</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Maria Agustina</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>455</xmin>
+      <ymin>267</ymin>
+      <xmax>638</xmax>
+      <ymax>429</ymax>
+    </bndbox>
+  </object>
+</annotation>

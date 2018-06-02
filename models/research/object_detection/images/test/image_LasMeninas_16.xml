@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image_LasMeninas_16.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\Model\train\image_LasMeninas_16.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>855</width>
+    <height>1100</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Infanta Margarita</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>30</ymin>
+      <xmax>854</xmax>
+      <ymax>948</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image_LasMeninas_29.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\Model\train\image_LasMeninas_29.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>900</width>
+    <height>1196</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Diego Velazquez</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>61</xmin>
+      <ymin>12</ymin>
+      <xmax>882</xmax>
+      <ymax>823</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,74 @@
+<annotation>
+  <folder>train_1</folder>
+  <filename>image_LasMeninas_125.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\train_1\image_LasMeninas_125.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1668</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Diego Velazquez</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>251</xmin>
+      <ymin>915</ymin>
+      <xmax>558</xmax>
+      <ymax>1214</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Maria Agustina</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>443</xmin>
+      <ymin>1204</ymin>
+      <xmax>669</xmax>
+      <ymax>1527</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Infanta Margarita</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>679</xmin>
+      <ymin>1198</ymin>
+      <xmax>970</xmax>
+      <ymax>1576</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Isabel de Velasco</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>978</xmin>
+      <ymin>1040</ymin>
+      <xmax>1267</xmax>
+      <ymax>1473</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Mari Barbola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1271</xmin>
+      <ymin>1157</ymin>
+      <xmax>1530</xmax>
+      <ymax>1497</ymax>
+    </bndbox>
+  </object>
+</annotation>

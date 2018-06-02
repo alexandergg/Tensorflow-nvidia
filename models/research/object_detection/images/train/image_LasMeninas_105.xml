@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train_1</folder>
+  <filename>image_LasMeninas_105.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\train_1\image_LasMeninas_105.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>681</width>
+    <height>784</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Isabel de Velasco</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>302</ymin>
+      <xmax>294</xmax>
+      <ymax>689</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Mari Barbola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>333</xmin>
+      <ymin>398</ymin>
+      <xmax>580</xmax>
+      <ymax>740</ymax>
+    </bndbox>
+  </object>
+</annotation>

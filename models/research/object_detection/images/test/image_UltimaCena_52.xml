@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Model_to_train</folder>
+  <filename>image_UltimaCena_52.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\Model_to_train\image_UltimaCena_52.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>284</width>
+    <height>310</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Jesucristo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>41</ymin>
+      <xmax>284</xmax>
+      <ymax>293</ymax>
+    </bndbox>
+  </object>
+</annotation>

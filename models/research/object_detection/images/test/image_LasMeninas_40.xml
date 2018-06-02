@@ -1,0 +1,50 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image_LasMeninas_40.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\Model\train\image_LasMeninas_40.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>980</width>
+    <height>552</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Diego Velazquez</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>5</ymin>
+      <xmax>327</xmax>
+      <ymax>344</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Maria Agustina</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>209</xmin>
+      <ymin>303</ymin>
+      <xmax>488</xmax>
+      <ymax>552</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Infanta Margarita</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>507</xmin>
+      <ymin>319</ymin>
+      <xmax>824</xmax>
+      <ymax>544</ymax>
+    </bndbox>
+  </object>
+</annotation>

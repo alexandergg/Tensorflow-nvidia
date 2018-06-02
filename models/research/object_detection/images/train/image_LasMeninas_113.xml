@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train_1</folder>
+  <filename>image_LasMeninas_113.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\train_1\image_LasMeninas_113.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>607</width>
+    <height>334</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Maria Agustina</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>81</xmin>
+      <ymin>86</ymin>
+      <xmax>315</xmax>
+      <ymax>334</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Infanta Margarita</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>322</xmin>
+      <ymin>95</ymin>
+      <xmax>575</xmax>
+      <ymax>334</ymax>
+    </bndbox>
+  </object>
+</annotation>

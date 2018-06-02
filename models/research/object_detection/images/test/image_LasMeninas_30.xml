@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>image_LasMeninas_30.jpg</filename>
+  <path>C:\Users\Alexander\Desktop\Model\train\image_LasMeninas_30.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>231</width>
+    <height>245</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Mari Barbola</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>97</xmin>
+      <ymin>3</ymin>
+      <xmax>193</xmax>
+      <ymax>136</ymax>
+    </bndbox>
+  </object>
+</annotation>
